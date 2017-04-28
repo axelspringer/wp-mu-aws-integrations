@@ -26,7 +26,7 @@ function initS3()
 	    'post_meta_version' => 6,
 	    'domain' => 'path',
 	    'cloudfront' => '',
-	    'object-prefix' => 'data/uploads',
+	    'object-prefix' => 'data/uploads/',
 	    'copy-to-s3'    => 1,
 	    'serve-from-s3' => 1,
 	    'remove-local-file' => 1,
