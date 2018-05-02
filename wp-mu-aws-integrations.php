@@ -2,7 +2,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-class Asse_AWS_Integrations {
+class Axelspringer_AWS_Integrations {
 
 	public function __construct() {
 		add_action( 'init', array( $this, 'init_S3' ) );
@@ -55,4 +55,4 @@ class Asse_AWS_Integrations {
 	}
 }
 
-$asse_aws_integrations = new Asse_AWS_Integrations();
+$axelspringer_aws_integrations = new Axelspringer_AWS_Integrations();

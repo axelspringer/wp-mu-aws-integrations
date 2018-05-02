@@ -1,5 +1,5 @@
 {
-    "name": "muplugin/aws-integrations",
+    "name": "axelspringer/wp-mu-aws-integrations",
     "type": "wordpress-muplugin",
     "description": "aws integrations",
     "keywords": [
@@ -8,13 +8,13 @@
     ],
     "authors": [
         {
-            "name": "Developer",
+            "name": "Mathias Witt",
             "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/aws-integrations/browse",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-aws-integrations",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "aws-integrations"
+        "installer-name": "wp-mu-aws-integrations"
     }
 }
